@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src="image_f34380.jpg" width="100%" alt="Lalith Eswar Adatarvu Banner" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-lalitheswar09-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/lalitheswar09)
 [![LeetCode](https://img.shields.io/badge/LeetCode-200%2B%20solved-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/_kungfupanda/)
