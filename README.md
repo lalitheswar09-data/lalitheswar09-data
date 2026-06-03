@@ -43,8 +43,8 @@
 **LLM & AI Agents**
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/huggingface/huggingface-original.svg" width="36" height="36" alt="Hugging Face" title="Hugging Face"/> &nbsp;
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=00C9A7) &nbsp;
-![LangGraph](https://img.shields.io/badge/LangGraph-6C63FF?style=for-the-badge&logoColor=white) &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/langchain/langchain-original.svg" width="36" height="36" alt="LangChain" title="LangChain"/> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/langgraph/langgraph-original.svg" width="36" height="36" alt="LangGraph" title="LangGraph"/> &nbsp;
 ![RAG](https://img.shields.io/badge/RAG_Pipelines-00C9A7?style=for-the-badge&logoColor=white) &nbsp;
 ![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logoColor=white)
 
