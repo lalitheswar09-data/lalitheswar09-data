@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9A7&height=200&section=header&text=Lalith%20Eswar%20Adatarvu&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer%20in%20the%20making&descAlignY=58&descColor=e0e0e0" />
+<img src="image_f34380.jpg" width="100%" alt="Lalith Eswar Adatarvu Banner" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-lalitheswar09-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/lalitheswar09)
 [![LeetCode](https://img.shields.io/badge/LeetCode-200%2B%20solved-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/_kungfupanda/)
@@ -42,11 +42,11 @@
 
 **LLM & AI Agents**
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/huggingface/huggingface-original.svg" width="36" height="36" alt="Hugging Face" title="Hugging Face"/> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/langchain/langchain-original.svg" width="36" height="36" alt="LangChain" title="LangChain"/> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/langgraph/langgraph-original.svg" width="36" height="36" alt="LangGraph" title="LangGraph"/> &nbsp;
-![RAG](https://img.shields.io/badge/RAG_Pipelines-00C9A7?style=for-the-badge&logoColor=white) &nbsp;
-![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logoColor=white)
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" height="24" alt="Hugging Face"/> &nbsp;
+<img src="https://img.shields.io/badge/LangChain-1C3C3A?style=flat-square&logo=langchain&logoColor=white" height="24" alt="LangChain"/> &nbsp;
+<img src="https://img.shields.io/badge/LangGraph-1C3C3A?style=flat-square&logo=langchain&logoColor=6C63FF" height="24" alt="LangGraph"/> &nbsp;
+<img src="https://img.shields.io/badge/RAG_Pipelines-00C9A7?style=flat-square" height="24" alt="RAG"/> &nbsp;
+<img src="https://img.shields.io/badge/spaCy-09A3D5?style=flat-square" height="24" alt="spaCy"/>
 
 </td>
 <td valign="top" width="50%">
@@ -76,39 +76,57 @@
 
 ### Projects
 
-**Sudoku Solver** · `React.js` `JavaScript` `Backtracking` `DSA`
+<table>
+  <tr>
+    <td>
+      <h3>Sudoku Solver</h3>
+      <p>Got bored of solving Sudoku in class — so built a visualiser instead. Uses a recursive backtracking engine: places digits 1–9, validates against row/column/3×3 subgrid constraints, and backtracks on dead ends. Watching the grid guess, fail, and pivot is the most satisfying way to see recursion live.</p>
+      <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React.js"/>
+      <img src="https://img.shields.io/badge/Backtracking-6C63FF?style=flat-square" alt="Backtracking"/>
+      <img src="https://img.shields.io/badge/DSA-00C9A7?style=flat-square" alt="DSA"/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+    </td>
+  </tr>
+</table>
 
-Got bored of solving Sudoku in class — so built a visualiser instead. Uses a recursive backtracking engine: places digits 1–9, validates against row/column/3×3 subgrid constraints, and backtracks on dead ends. Watching the grid guess, fail, and pivot is the most satisfying way to see recursion live.
+<br/>
 
----
+<table>
+  <tr>
+    <td>
+      <h3>Pygame AI Game Suite — Connect 4 · Conquer 50 · Tic-Tac-Toe</h3>
+      <p>Built AI opponents that actually try to beat you. Each game runs a structured event-driven game loop with reliable move validation and win-condition detection. The AI uses Minimax with alpha-beta pruning integrated directly into the turn-based system — seamlessly switching between human and autonomous moves in real time.</p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+      <img src="https://img.shields.io/badge/Pygame-1C3C3A?style=flat-square" alt="Pygame"/>
+      <img src="https://img.shields.io/badge/Minimax%20AI-6C63FF?style=flat-square" alt="Minimax AI"/>
+      <img src="https://img.shields.io/badge/Alpha--Beta%20Pruning-00C9A7?style=flat-square" alt="Alpha-Beta Pruning"/>
+      <img src="https://img.shields.io/badge/Game%20Theory-FF9F43?style=flat-square" alt="Game Theory"/>
+      <img src="https://img.shields.io/badge/DSA-00C9A7?style=flat-square" alt="DSA"/>
+    </td>
+  </tr>
+</table>
 
-**Pygame AI Game Suite** · `Python` `Pygame` `Minimax AI` `Alpha-Beta Pruning` `Game Theory` `DSA`
+<br/>
 
-Built AI opponents that actually try to beat you — Connect 4, Conquer 50, and Tic-Tac-Toe, all fully playable against an AI-controlled opponent. Each game runs a structured event-driven game loop with reliable move validation and win-condition detection. The AI uses Minimax with alpha-beta pruning integrated directly into the turn-based system — seamlessly switching between human and autonomous moves in real time.
-
----
-
-**Rubik's Cube Solver** · `React` `Three.js` `Algorithms`
-
-3D simulator with custom state-based logic tracking all 26 cubie orientations across 6 faces. Integrated Kociemba's Two-Phase Algorithm for optimal solutions from any scrambled state, rendered step-by-step through the animation pipeline.
-
----
-
-**Appliance Manager** · `MongoDB` `Express` `React` `Node.js`
-
-MERN web app to manage appliance warranties and service history. Automated service workflows with alerts and analytics dashboards for failure tracking, warranty claims, and service demand prediction.
-
----
-
-### GitHub stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=lalitheswar09-data&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=00C9A7&text_color=c9d1d9" />
-&nbsp;&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lalitheswar09-data&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&text_color=c9d1d9" />
-
-</div>
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Rubik's Cube Solver</h3>
+      <p>3D simulator tracking all 26 cubie orientations. Kociemba's Two-Phase Algorithm finds optimal solutions from any scrambled state, animated step-by-step.</p>
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
+      <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white" alt="Three.js"/>
+      <img src="https://img.shields.io/badge/Algorithms-6C63FF?style=flat-square" alt="Algorithms"/>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Appliance Manager</h3>
+      <p>MERN app for warranty and service history tracking. Automated alerts, analytics dashboards for failure tracking and service demand prediction.</p>
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
+      <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express"/>
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
