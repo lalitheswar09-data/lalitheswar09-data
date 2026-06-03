@@ -1,7 +1,5 @@
 <div align="center">
 
-<img width="2000" height="600" alt="White Minimalist Profile LinkedIn Banner (1)" src="https://github.com/user-attachments/assets/0d0aae6b-f998-4049-b0f3-967b425e373a" />
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-lalitheswar09-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/lalitheswar09)
 [![LeetCode](https://img.shields.io/badge/LeetCode-200%2B%20solved-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/_kungfupanda/)
 [![Email](https://img.shields.io/badge/Email-lalitheswar09%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:lalitheswar09@gmail.com)
