@@ -85,6 +85,3 @@ Outside of tech, I'm usually on the badminton court, exploring a new city, or hu
 
 ---
 
-<p align="center">
-  <em>"Still in year one — but the build log is already getting long."</em>
-</p>
