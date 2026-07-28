@@ -1,7 +1,7 @@
 # Hi there, I'm Lalith 👋
 
 <p align="center">
-  <em>First-year CSE student at IIIT Naya Raipur · Building at the intersection of ML, LLMs & AI Agents · ☕ Fueled by coffee</em>
+  <em>CSE student at IIIT Naya Raipur · Building at the intersection of ML, LLMs & AI Agents · ☕ Fueled by coffee</em>
 </p>
 
 <p align="center">
