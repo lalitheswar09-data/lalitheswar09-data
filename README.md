@@ -17,15 +17,6 @@
 </p>
 
 ---
-
-## 🙋 About Me
-
-I'm **Lalith Eswar Adatarvu**, a first-year B.Tech CSE student at **IIIT Naya Raipur** (CGPA: 9.18). I cleared JEE Mains in the **top 1%** with AIR 14,537 out of 1.4 million candidates.
-
-My focus is on **ML engineering, LLM systems, and AI agents** — I enjoy building things end-to-end, from training models to deploying intelligent pipelines. On the side, I've solved **200+ problems on LeetCode** in C++ and Python.
-
-Outside of tech, I'm usually on the badminton court, exploring a new city, or hunting for a good cup of coffee. ☕🏸✈️
-
 ---
 
 ## 🛠️ Tech Stack
