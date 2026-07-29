@@ -69,8 +69,8 @@
 
 | Platform | Link |
 |---|---|
-| 💼 LinkedIn | [lalith-eswar-adatarvu](https://www.linkedin.com/in/lalith-eswar-adatarvu) |
-| 🧠 LeetCode | [lalitheswar09](https://leetcode.com/u/lalitheswar09/) |
+| 💼 LinkedIn | [lalith-eswar-adatarvu](https://www.linkedin.com/in/lalitheswaradatravu/) |
+| 🧠 LeetCode | [lalitheswar09](https://leetcode.com/u/_kungfupanda/) |
 | 📧 Email | [lalitheswar09@gmail.com](mailto:lalitheswar09@gmail.com) |
 | 🐙 GitHub | [lalitheswar09-data](https://github.com/lalitheswar09-data) |
 
